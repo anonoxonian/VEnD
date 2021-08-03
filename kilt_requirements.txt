@@ -1,0 +1,12 @@
+pymongo
+pytest
+jsonlines
+rouge
+prettytable
+tqdm
+nltk
+# torch # using the conda-forge supplied version
+bs4
+# faiss # using the conda-forge supplied version
+flair
+spacy
